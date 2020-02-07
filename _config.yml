@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "blog"
+title                    : "git blog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "boram's first github-blog" # site tagline that appears below site title in masthead
 name                     : "boram"
-description              : "to be amazing website."
+description              : "to be amazing blog."
 url                      : "https://tttboram.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
