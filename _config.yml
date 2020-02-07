@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "git blog"
+title                    : "boram's git-blog"
 title_separator          : "-"
 subtitle                 : "boram's first github-blog" # site tagline that appears below site title in masthead
-name                     : "boram"
+name                     : "Lee Boram"
 description              : "to be amazing blog."
 url                      : "https://tttboram.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -109,13 +109,13 @@ analytics:
 author:
   name             : "boram"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am an **happy** person."
   location         : "Somewhere"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:tttboram@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
