@@ -34,6 +34,12 @@ body {
 .search-content {
   flex: 1 0 auto;
 }
+.initial-content{
+  max-width: 1280px;
+  margin: 0 auto;
+  width: 100%;
+  padding: 1em;
+}
 
 .page {
   @include breakpoint($large) {
